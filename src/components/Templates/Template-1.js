@@ -102,7 +102,7 @@ export const TemplateOne = () => {
 																			alt="facebook"
 																			color={data.socialColor}
 																			style={{
-																				backgroundColor: data.socialAnchor,
+																				backgroundColor: '#007bff',
 																				maxWidth: '135px',
 																				display: 'block',
 																			}}
@@ -156,7 +156,7 @@ export const TemplateOne = () => {
 																			alt="linkedin"
 																			color={data.socialColor}
 																			style={{
-																				backgroundColor: data.socialAnchor,
+																				backgroundColor: '#007bff',
 																				maxWidth: '135px',
 																				display: 'block',
 																			}}
@@ -183,7 +183,7 @@ export const TemplateOne = () => {
 																			alt="instagram"
 																			color={data.socialColor}
 																			style={{
-																				backgroundColor: data.socialAnchor,
+																				backgroundColor: '#007bff',
 																				maxWidth: '135px',
 																				display: 'block',
 																			}}
@@ -496,7 +496,7 @@ export const TemplateOne = () => {
 																		style={{
 																			width: '12px',
 																			display: 'block',
-																			backgroundColor: data.accentColor,
+																			backgroundColor: '#007bff',
 																		}}
 																	/>
 																</span>
